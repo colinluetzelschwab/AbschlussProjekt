@@ -36,3 +36,7 @@ namen für neuen Branch eingeben:
 
 ### Case 3
 
+<img width="442" alt="image" src="https://user-images.githubusercontent.com/71329443/150561296-ef811382-5108-4a06-8ff2-3abdc84e2571.png">
+branch namen eingeben:
+
+<img width="442" alt="image" src="https://user-images.githubusercontent.com/71329443/150561348-a4659bf9-c90e-4788-91dd-59892436643a.png">
